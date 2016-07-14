@@ -1,0 +1,21 @@
+{
+    "name": "gitbook-plugin-typogr",
+    "description": "Typogr plugin for GitBook",
+    "main": "index.js",
+    "version": "0.0.4",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/nathanwebb/gitbook-plugin-typogr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nathanwebb/gitbook-plugin-typogr"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nathanwebb/gitbook-plugin-typogr/issues"
+    },
+    "dependencies": {
+      "typogr": "^0.6.6"
+    }
+}
