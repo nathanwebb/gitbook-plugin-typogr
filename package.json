@@ -4,7 +4,7 @@
     "main": "index.js",
     "version": "0.0.5",
     "engines": {
-        "gitbook": "*"
+        "gitbook": ">3.x.x"
     },
     "homepage": "https://github.com/nathanwebb/gitbook-plugin-typogr",
     "repository": {
